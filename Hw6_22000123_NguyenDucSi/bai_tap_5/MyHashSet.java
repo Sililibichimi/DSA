@@ -1,5 +1,7 @@
 package DSA.Hw6_22000123_NguyenDucSi.bai_tap_5;
 
+// sdfjklgj sdkgjsdl kgdfklg sldkfgdf
+
 public class MyHashSet {
 
     int[] set;
