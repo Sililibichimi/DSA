@@ -1,6 +1,5 @@
-package DSA.Hw7_22000123_NguyenDucSi.Baitap1;
+package DSA.Hw7_22000123_NguyenDucSi.Baitapthem.A.Hw7_22000123_NguyenDucSi.Baitap1;
 
-import java.io.File;
 import java.io.FileWriter;
 
 public class ArrayBinaryTree<E, T> implements BinaryTreeInterface<T> {
